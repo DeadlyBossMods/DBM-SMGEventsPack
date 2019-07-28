@@ -4,7 +4,7 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: MysticalOS, SmoothMcGroove
-## Version: 1.4
+## Version: 1.5.0
 ## X-DBM-VictoryPack: 1
 ## X-DBM-VictoryPack-GlobalName: DBMVPSMGPack
 ## X-DBM-MusicPack: 1
