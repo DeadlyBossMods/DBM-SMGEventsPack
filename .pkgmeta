@@ -2,4 +2,4 @@ package-as: DBM-SMGEventsPack
 enable-nolib-creation: no
 
 move-folders:
-    DBM-SMGEventsPack/DBM-SMGEventsPack: DBM-SMGEventsPack
+  DBM-SMGEventsPack/DBM-SMGEventsPack: DBM-SMGEventsPack
