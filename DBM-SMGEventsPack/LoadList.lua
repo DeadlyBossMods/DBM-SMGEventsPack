@@ -87,7 +87,7 @@ function DBMMPSMGPack() -- Register Music to DBM.Music Table
 		text	= "SMG: Zelda 2 Temple Palace",
 		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Zelda2_TemplePalaceAcapella.ogg"
 	})
-	
+
 	-- Dungeon BGM Table
 	if DBM.DungeonMusic then
 		insert(DBM.DungeonMusic, {
