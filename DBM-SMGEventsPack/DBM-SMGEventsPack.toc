@@ -14,5 +14,6 @@
 ## X-DBM-MusicPack: 1
 ## X-DBM-MusicPack-GlobalName: DBMMPSMGPack
 ## X-Curse-Project-ID: 289632
+## X-Wago-ID: Rn6VeENd
 
 LoadList.lua
