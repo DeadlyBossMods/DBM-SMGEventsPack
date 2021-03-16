@@ -12,8 +12,6 @@ ignore = {
 	"542", -- An empty if branch
 }
 globals = {
-	"_G",
-
 	-- DeadlyBossMods
 	"DBM",
 	"DBMVPSMGPack",
