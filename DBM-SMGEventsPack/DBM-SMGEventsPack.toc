@@ -7,6 +7,7 @@
 ## RequiredDeps: DBM-Core
 ## Author: MysticalOS, SmoothMcGroove
 ## Version: @project-version@
+## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
 ## X-DBM-VictoryPack: 1
 ## X-DBM-VictoryPack-GlobalName: DBMVPSMGPack
 ## X-DBM-MusicPack: 1
