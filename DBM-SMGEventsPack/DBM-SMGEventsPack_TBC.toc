@@ -1,0 +1,18 @@
+## Interface: 20504
+## Category: DBM
+
+## Title:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530SMG Events Pack|r
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM Медиа|r|cffffe00a>|r |cff308530Звуковые события SMG|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: MysticalOS, SmoothMcGroove
+## Version: @project-version@
+## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
+## X-DBM-VictoryPack: 1
+## X-DBM-VictoryPack-GlobalName: DBMVPSMGPack
+## X-DBM-MusicPack: 1
+## X-DBM-MusicPack-GlobalName: DBMMPSMGPack
+## X-Curse-Project-ID: 289632
+## X-Wago-ID: Rn6VeENd
+
+LoadList.lua
