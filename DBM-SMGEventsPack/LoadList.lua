@@ -19,116 +19,144 @@ function DBMMPSMGPack() -- Register Music to DBM.Music Table
 	if inserted2 then
 		return
 	end
+	-- Durations are in seconds, measured from the bundled audio files.
 	insert(DBM.Music, {
 		text	= "SMG: CT Corridors of Time",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\ChronoTrigger_CorridorsofTime.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\ChronoTrigger_CorridorsofTime.ogg",
+		duration = 77.113469
 	})
 	insert(DBM.Music, {
 		text	= "SMG: FFVI Decisive Battle",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF6_DecisiveBattleAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF6_DecisiveBattleAcapella.ogg",
+		duration = 52.584490
 	})
 	insert(DBM.Music, {
 		text	= "SMG: FFVII Battle",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_BattleThemeAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_BattleThemeAcapella.ogg",
+		duration = 59.297959
 	})
 	insert(DBM.Music, {
 		text	= "SMG: FFVII JENOVA",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_JENOVAAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_JENOVAAcapella.ogg",
+		duration = 88.920816
 	})
 	insert(DBM.Music, {
 		text	= "SMG: FFVII One Winged Angel",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_OneWingedAngelAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_OneWingedAngelAcapella.ogg",
+		duration = 423.288163
 	})
 	insert(DBM.Music, {
 		text	= "SMG: FFX Battle",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FFX_BattleAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FFX_BattleAcapella.ogg",
+		duration = 101.015510
 	})
 	insert(DBM.Music, {
 		text	= "SMG: MM2 Dr. Wily Stage",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MM2_DrWilyStageAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MM2_DrWilyStageAcapella.ogg",
+		duration = 74.579592
 	})
 	insert(DBM.Music, {
 		text	= "SMG: MMX Spark Mandrill Stage",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MMX_SparkMandrillAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MMX_SparkMandrillAcapella.ogg",
+		duration = 50.337959
 	})
 	insert(DBM.Music, {
 		text	= "SMG: MMX Stage Select",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MMX_StageSelectAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MMX_StageSelectAcapella.ogg",
+		duration = 23.066122
 	})
 	insert(DBM.Music, {
 		text	= "SMG: Super Mario Kart Mario Ciruit",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SMK_MarioCircuitAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SMK_MarioCircuitAcapella.ogg",
+		duration = 32.888163
 	})
 	insert(DBM.Music, {
 		text	= "SMG: Secret of Mana Ice Palace",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SoM_ABellisTollingAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SoM_ABellisTollingAcapella.ogg",
+		duration = 79.464490
 	})
 	insert(DBM.Music, {
 		text	= "SMG: Super Metroid Brinstar Green",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SuperMetroid_BrinstarGreen.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SuperMetroid_BrinstarGreen.ogg",
+		duration = 108.120816
 	})
 	insert(DBM.Music, {
 		text	= "SMG: Tetris Theme A",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Tetris_ThemeAAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Tetris_ThemeAAcapella.ogg",
+		duration = 77.217959
 	})
 	insert(DBM.Music, {
 		text	= "SMG: WoW Pirate Tavern",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\WoW_PirateTavernAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\WoW_PirateTavernAcapella.ogg",
+		duration = 111.307755
 	})
 	insert(DBM.Music, {
 		text	= "SMG: Xenogears One Who Bares...",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Xenogears_OneWhoBaresFangs.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Xenogears_OneWhoBaresFangs.ogg",
+		duration = 191.712653
 	})
 	insert(DBM.Music, {
 		text	= "SMG: Zelda Dungeon",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Zelda_DungeonAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Zelda_DungeonAcapella.ogg",
+		duration = 19.330612
 	})
 	insert(DBM.Music, {
 		text	= "SMG: Zelda 2 Temple Palace",
-		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Zelda2_TemplePalaceAcapella.ogg"
+		value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Zelda2_TemplePalaceAcapella.ogg",
+		duration = 92.917551
 	})
 
 	-- Dungeon BGM Table
 	if DBM.DungeonMusic then
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: CT Corridors of Time",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\ChronoTrigger_CorridorsofTime.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\ChronoTrigger_CorridorsofTime.ogg",
+			duration = 77.113469
 		})
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: MM2 Dr. Wily Stage",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MM2_DrWilyStageAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MM2_DrWilyStageAcapella.ogg",
+			duration = 74.579592
 		})
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: MMX Spark Mandrill Stage",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MMX_SparkMandrillAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MMX_SparkMandrillAcapella.ogg",
+			duration = 50.337959
 		})
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: MMX Stage Select",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MMX_StageSelectAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\MMX_StageSelectAcapella.ogg",
+			duration = 23.066122
 		})
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: Super Mario Kart Mario Ciruit",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SMK_MarioCircuitAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SMK_MarioCircuitAcapella.ogg",
+			duration = 32.888163
 		})
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: Secret of Mana Ice Palace",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SoM_ABellisTollingAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SoM_ABellisTollingAcapella.ogg",
+			duration = 79.464490
 		})
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: Super Metroid Brinstar Green",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SuperMetroid_BrinstarGreen.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\SuperMetroid_BrinstarGreen.ogg",
+			duration = 108.120816
 		})
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: WoW Pirate Tavern",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\WoW_PirateTavernAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\WoW_PirateTavernAcapella.ogg",
+			duration = 111.307755
 		})
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: Zelda Dungeon",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Zelda_DungeonAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Zelda_DungeonAcapella.ogg",
+			duration = 19.330612
 		})
 		insert(DBM.DungeonMusic, {
 			text	= "SMG: Zelda 2 Temple Palace",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Zelda2_TemplePalaceAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Zelda2_TemplePalaceAcapella.ogg",
+			duration = 92.917551
 		})
 	end
 
@@ -136,31 +164,38 @@ function DBMMPSMGPack() -- Register Music to DBM.Music Table
 	if DBM.BattleMusic then
 		insert(DBM.BattleMusic, {
 			text	= "SMG: FFVI Decisive Battle",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF6_DecisiveBattleAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF6_DecisiveBattleAcapella.ogg",
+			duration = 52.584490
 		})
 		insert(DBM.BattleMusic, {
 			text	= "SMG: FFVII Battle",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_BattleThemeAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_BattleThemeAcapella.ogg",
+			duration = 59.297959
 		})
 		insert(DBM.BattleMusic, {
 			text	= "SMG: FFVII JENOVA",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_JENOVAAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_JENOVAAcapella.ogg",
+			duration = 88.920816
 		})
 		insert(DBM.BattleMusic, {
 			text	= "SMG: FFVII One Winged Angel",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_OneWingedAngelAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FF7_OneWingedAngelAcapella.ogg",
+			duration = 423.288163
 		})
 		insert(DBM.BattleMusic, {
 			text	= "SMG: FFX Battle",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FFX_BattleAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\FFX_BattleAcapella.ogg",
+			duration = 101.015510
 		})
 		insert(DBM.BattleMusic, {
 			text	= "SMG: Tetris Theme A",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Tetris_ThemeAAcapella.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Tetris_ThemeAAcapella.ogg",
+			duration = 77.217959
 		})
 		insert(DBM.BattleMusic, {
 			text	= "SMG: Xenogears One Who Bares...",
-			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Xenogears_OneWhoBaresFangs.ogg"
+			value	= "Interface\\AddOns\\DBM-SMGEventsPack\\Music\\Xenogears_OneWhoBaresFangs.ogg",
+			duration = 191.712653
 		})
 	end
 	inserted2 = true
